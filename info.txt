@@ -1,0 +1,9 @@
+https://angular.io/tutorial/toh-pt0
+
+App create:
+ng new my-app
+Launch the server
+ng serve --open
+
+Create new component
+ng generate component 'name'
